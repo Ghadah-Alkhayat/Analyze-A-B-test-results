@@ -10,4 +10,4 @@ This is one of my projects for Data Analyst -Udacity nano degree-
 In this project, I analyzed the results of an A/B test run by an e-commerce website to help the company understand if they should implement the new page, keep the old page, or perhaps run the experiment longer to make their decision.
 
 ## used language 
-Python 
+Python: pandas, numpy , random matplotlib.pyplot, and statsmodels.api 
